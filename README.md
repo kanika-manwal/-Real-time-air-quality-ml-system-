@@ -1,8 +1,4 @@
-Perfect ✅ — now that your **Real-Time + ML Air Quality System** is complete, here’s a professional **`README.md`** (GitHub-ready), along with the **Git commands** to push your project to GitHub.
 
----
-
-## 🧾 README.md (Copy-Paste Ready)
 
 ````markdown
 # 🌫️ Real-Time Indian Air Quality Index + ML Prediction System
@@ -51,7 +47,7 @@ A Streamlit-based **real-time air quality monitoring and prediction system** bui
 
 ### 1️⃣ Clone the Repository
 ```bash
-git clone https://github.com/<your-username>/<your-repo-name>.git
+git clone  https://github.com/kanika-manwal/-Real-time-air-quality-ml-system-
 cd <your-repo-name>
 ````
 
@@ -107,21 +103,6 @@ Then open your browser at:
 
 ---
 
-## 📸 Screenshots
-
-| Real-Time Dashboard                             | ML Training View                          |
-| ----------------------------------------------- | ----------------------------------------- |
-| ![Realtime Dashboard](screenshots/realtime.png) | ![ML Trainer](screenshots/ml_trainer.png) |
-
----
-
-## 🧑‍💻 Authors
-
-**Kanika** & **Shardul Raturi**
-*AI/ML Developers | Streamlit Dashboard Enthusiasts*
-
----
-
 ## ⭐️ Show Your Support
 
 If you found this project helpful, don’t forget to ⭐️ **star the repo** on GitHub!
@@ -174,28 +155,5 @@ git branch -M main
 git push -u origin main
 ```
 
----
-
-## 💬 Optional: Description for GitHub Repository
-
-**Repository name:** `real-time-air-quality-ml-system`
-**Short description:**
-
-> Real-Time Air Quality Monitoring & Prediction System using Streamlit, data.gov.in API, and Machine Learning. Displays live CPCB AQI data, trains custom AQI models, and provides smart health insights.
-
-**Topics (for GitHub SEO):**
-
-```
-streamlit
-machine-learning
-data-science
-air-quality
-data-gov-in
-python
-aqi
-pollution-monitoring
-```
-
----
 
 Would you like me to generate a **shorter version of the README (for GitHub description section)** and a **project tagline** (for your GitHub repo header)?
